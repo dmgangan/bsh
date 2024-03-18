@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-120.012798, 39.54029], [-104.543841, 38.968974], [-105.787566, 30.121215], [-117.465814, 30.824092], [-120.012798, 39.54029]]]}, "properties": {"BeamName": "USA_MEO3_Phoenix_FWD", "BeamID": 167772161, "constellation": "meo3"}}]}
